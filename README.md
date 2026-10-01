@@ -2,9 +2,9 @@
 Simulation based segmented and secure campus network, designed using Cisco Packet Tracer
 Main objectives of this Project are:
 
-1.to make all switches and routers password protected. 
+1. to make all switches and routers password protected. 
 
-2.to design One of the departments would use the DHCP protocol to assign the IP addresses to all 
+2. to design One of the departments would use the DHCP protocol to assign the IP addresses to all 
 hosts of that network.  
 
 3. to apply VLAN system, on one of the departments that would separate students and faculties 
